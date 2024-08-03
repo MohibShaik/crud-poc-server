@@ -114,3 +114,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 pmo.log.*
+
+.env
